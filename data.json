@@ -1,0 +1,60 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "category": "Results",
+      "title": "Jharkhand Polytechnic Result 2026",
+      "statusText": "New",
+      "shortDescription": "Result for Jharkhand Polytechnic 2026.",
+      "importantDates": "Available soon.",
+      "applicationFee": "NA",
+      "ageLimit": "NA",
+      "vacancyDetails": "NA",
+      "officialLink": "#",
+      "createdAt": 1722765369000
+    },
+    {
+      "id": "2",
+      "category": "Admit Card",
+      "title": "Railway RRB Group D Exam City 2026",
+      "statusText": "Out",
+      "shortDescription": "Check your exam city.",
+      "importantDates": "Available soon.",
+      "applicationFee": "NA",
+      "ageLimit": "NA",
+      "vacancyDetails": "NA",
+      "officialLink": "#",
+      "createdAt": 1722765369001
+    },
+    {
+      "id": "3",
+      "category": "Latest Jobs",
+      "title": "AAI Junior Executive Recruitment 2026 Notification",
+      "statusText": "Out",
+      "shortDescription": "AAI has released notification.",
+      "importantDates": "Available soon.",
+      "applicationFee": "NA",
+      "ageLimit": "NA",
+      "vacancyDetails": "NA",
+      "officialLink": "#",
+      "createdAt": 1722765369002
+    }
+  ],
+  "settings": {
+    "adScript": "<div style=\"padding:20px; text-align:center; background:#eee;\">Your AdSense or Banner Code Here</div>",
+    "adDelay": 5,
+    "whatsappLink": "#",
+    "instagramLink": "#",
+    "telegramLink": "#",
+    "topAlerts": [
+      { "id": "1", "title": "Railway RRB Technician Recruitment 2026", "color": "bg-yellow-300 text-black", "link": "#" },
+      { "id": "2", "title": "IAF Agniveervayu Musician Recruitment 2026", "color": "bg-amber-900 text-white", "link": "#" },
+      { "id": "3", "title": "BPSC 72nd Pre Admit Card (1189 Posts)", "color": "bg-green-600 text-white", "link": "#" },
+      { "id": "4", "title": "JNU Non-Teaching Recruitment 2026 For 215 Post", "color": "bg-blue-600 text-white", "link": "#" },
+      { "id": "5", "title": "SSC CGL Online Form 2026 (12,256 Posts) – Start", "color": "bg-blue-600 text-white", "link": "#" },
+      { "id": "6", "title": "Railway RRB Group D Admit Card 2026 For 22,195 Post", "color": "bg-green-600 text-white", "link": "#" },
+      { "id": "7", "title": "UP Police Constable Result 2026 For 32,679 Post", "color": "bg-amber-900 text-white", "link": "#" },
+      { "id": "8", "title": "Bihar Home Guard Vacancy 2026 (13,500+ Post)", "color": "bg-yellow-300 text-black", "link": "#" }
+    ]
+  }
+}

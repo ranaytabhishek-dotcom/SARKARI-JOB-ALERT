@@ -1,0 +1,6 @@
+{
+  "name": "Sarkari Job Alert",
+  "description": "Government job updates, results, admit cards, and latest vacancies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
